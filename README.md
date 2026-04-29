@@ -1,7 +1,7 @@
 # Gui editor for Ace Online obj and eff files
-Entirerly in C# easy to use editor for easy objecy and effect modding. Now also open source!
+Entirely in C# easy to use editor for easy object and effect modding. Now also open source!
 
-## Can be used as a default opening program for such files, also Supports drag and drop of files
+## Can be used as a default opening program for such files, also supports drag and drop of files
 <img width="651" height="776" alt="image" src="https://github.com/user-attachments/assets/a0231df5-d37f-4882-aa14-1e87fe0747db" />
 
 ## EffectInfo file
